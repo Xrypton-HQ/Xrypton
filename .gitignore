@@ -1,0 +1,9 @@
+.env
+__pycache__/
+XryptonV4.zip
+xrypton.db
+.venv/
+.kilo/
+.vscode/
+logs/
+tools/emojis
